@@ -1,0 +1,3 @@
+[submodule "ChatApp_CLIENT"]
+	path = ChatApp_CLIENT
+	url = https://github.com/fitrianinasir/ChatApp_CLIENT
